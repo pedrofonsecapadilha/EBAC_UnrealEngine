@@ -1,2 +1,3 @@
-# EBAC_UnrealEngine
- Repositório com projetos realizados durante o curso.
+# EBAC_02_GrayBoxing
+
+Developed with Unreal Engine 5
